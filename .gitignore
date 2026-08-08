@@ -1,0 +1,26 @@
+# STM32CubeIDE build artifacts
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.launch
+
+# STM32CubeIDE project metadata (IDE-specific, not needed for others to build)
+.settings/
+.metadata/
+.cproject
+.project
+
+# CubeMX backup files
+*.ioc.bak
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*~
