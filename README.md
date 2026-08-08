@@ -54,11 +54,11 @@ This project reads a DHT11 temperature/humidity sensor and a photoresistor (LDR)
 
 **Main screen** \u2014 live temperature and light readings:
 
-![Main screen showing live temperature and light readings](images/main_screen.png)
+![Main screen showing live temperature and light readings](main_screen.png)
 
 **Min/Max screen** \u2014 session min/max temperature and humidity tracking:
 
-![Min/Max screen showing session temperature and humidity extremes](images/minmax_screen.png)
+![Min/Max screen showing session temperature and humidity extremes](minmax_screen.png)
 
 ## Author
 
