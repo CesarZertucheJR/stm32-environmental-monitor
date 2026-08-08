@@ -50,9 +50,7 @@ This project reads a DHT11 temperature/humidity sensor and a photoresistor (LDR)
 5. Wire the DHT11 to PA1, the photoresistor (with pull-down/voltage divider) to PA0, and the LCD per the pinout table above.
 6. Open a serial terminal (115200 baud, 8N1) to view live readings over USART2.
 
-## Demo
 
-*(photo/GIF of the LCD displaying live readings goes here)*
 
 ## Author
 
